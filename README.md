@@ -1,6 +1,8 @@
-<!-- Hero Section -->
-<h1 align="center">Hey 👋 I'm Vishwas R</h1>
-<h3 align="center">💻 CSE Undergrad </h3>
+<h1 align="center">Hey there! 👋 I'm Vishwas R</h1>
+<h4 align="center">🎓 Computer Science Engineering @ BIT, Bangalore | 📚 Lifelong Learner</h4>
+<p align="center">
+  🌐 Exploring Data Science, Web Tech & AI | 🧠 Learning by Building | ⚡ Tech for Impact
+</p>
 
 <p align="center">
   <a href="https://github.com/vishwaspw">
@@ -19,7 +21,8 @@
 - 💡 Passionate about building intelligent systems & impactful applications  
 - 🌱 Currently learning: **API Development, Chatbots development, MLOps, Core Fundamentals of Computer Science**  
 - 💬 Ask me about `Python`, `ML`, `SQL`, `Git`, `Java`, `Flask`, `HTML/CSS`, `CV`, `NLP`, `Deployment platforms`
-- 🧾 Portfolio Website: [https://vishwportfolio.netlify.app/](https://vishwportfolio.netlify.app/)
+- 🧾 Portfolio Website: <a href="https://sites.google.com/view/vishwas-r" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" />
 
 ---
 
@@ -51,39 +54,39 @@
   <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
 </p>
 
-
 ### 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vishwaspw&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishwaspw&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
-</p>
+<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px;">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=vishwaspw&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180" />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishwaspw&layout=compact&theme=tokyonight&hide_border=true" height="180" />
+
+</div>
 
 ---
-
-### 🏆 GitHub Trophies
+### 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vishwaspw&theme=dracula&no-frame=true&row=1&column=6" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vishwaspw&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
+
 
 ---
 
 ### 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/vishwas645" target="_blank">
+  <a href="https://linkedin.com/in/vishwas645" target="  blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/vishwaspw" target="_blank">
+  <a href="https://github.com/vishwaspw" target="  blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://medium.com/@vishwasr" target="_blank">
+  <a href="https://medium.com/@vishwasr" target="  blank">
     <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" />
   </a>
-  <a href="https://sites.google.com/view/vishwas-r" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" />
-  </a>
-</p>
+</a>
+
 
 <p align="center">🚀 Let’s build something meaningful together!</p>
