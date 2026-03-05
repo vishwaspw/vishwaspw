@@ -1,5 +1,5 @@
 <h1 align="center">Hey there! 👋 I'm Vishwas R</h1>
-<h4 align="center">🎓 CSE @ BIT, Bangalore | 📚 Lifelong Learner | 💡 Tech for Impact</h4>
+<h4 align="center">💻 Services Intern @ Aveva | 🎓 CSE @ BIT, Bangalore | 📚 Lifelong Learner</h4>
 
 <p align="center">
   🌐 Exploring Data Science, Web Tech & AI<br>
@@ -20,6 +20,7 @@
 ### 🧠 About Me
 
 - 🎓 Final-year CSE student at **Bangalore Institute of Technology**
+- 💻 Services Intern at **AVEVA**
 - 💡 Passionate about building intelligent & real-world impactful systems  
 - 🔭 Currently exploring: **API Dev**, **Chatbots**, **MLOps**, and **CS Fundamentals**
 - 💬 Ask me about: `Python`, `ML`, `SQL`, `Git`, `Java`, `Flask`, `NLP`, `CV`, `Deployment`
@@ -59,15 +60,6 @@
   <img src="https://img.shields.io/badge/Render-blue?style=for-the-badge&logo=render&logoColor=white" />
   <img src="https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel&logoColor=white" />
   <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vishwaspw&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishwaspw&layout=compact&theme=tokyonight&hide_border=true" height="180" />
 </p>
 
 ---
